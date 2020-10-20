@@ -140,7 +140,7 @@
     <sld_info hpath="niosLab2:u0" name="u0">
       <assignment_values>
         <assignment_value text="QSYS_NAME niosLab2 HAS_SOPCINFO 1 GENERATION_ID 1600900882"/>
-        <assignment_value text="QSYS_NAME niosLab2 HAS_SOPCINFO 1 GENERATION_ID 1601305352"/>
+        <assignment_value text="QSYS_NAME niosLab2 HAS_SOPCINFO 1 GENERATION_ID 1602108311"/>
       </assignment_values>
       <parameters/>
     </sld_info>
